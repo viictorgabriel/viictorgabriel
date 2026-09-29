@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Sou Victor Gabriel 👋
 
-<!--
-**viictorgabriel/viictorgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Customer Success • Análise de Dados • Revenue Operations
 
-Here are some ideas to get you started:
+Conecto minha experiência no relacionamento com clientes ao uso de dados para entender resultados comerciais e identificar oportunidades de crescimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo em Customer Success com soluções de tecnologia, incluindo iniciativas de adoção de IA e Microsoft Copilot. Estou aprofundando meus conhecimentos em análise de dados, com foco em decisões sobre clientes, vendas e receita.
+
+## 🎯 Foco do meu portfólio
+
+- Análise de desempenho comercial e composição das vendas.
+- Indicadores para orientar ações de relacionamento e crescimento.
+- Qualidade dos dados e comunicação de resultados.
+- Conexão entre Customer Success e Revenue Operations.
+
+## 📊 Projeto em desenvolvimento
+
+**Análise comercial de soluções de IA e Segurança**
+
+Estudo de caso com dados fictícios para explorar evolução das vendas, ticket médio e concentração por cliente e solução.
+
+O projeto reúne Python, SQL, gráficos e documentação das análises, premissas e limitações.
+
+## 🌱 Aprendizado
+
+Estou desenvolvendo este portfólio para praticar análise de dados e documentar meu raciocínio: da pergunta de negócio à interpretação dos resultados.
+
+Os projetos acadêmicos também fazem parte da minha trajetória e estão disponíveis nos meus repositórios.
+
+## 🤝 Vamos conversar?
+
+[Meu LinkedIn](https://www.linkedin.com/in/victor-gabriel-de-souza-77a030266/)
