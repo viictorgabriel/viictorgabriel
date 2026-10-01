@@ -4,7 +4,7 @@
 
 Conecto minha experiência no relacionamento com clientes ao uso de dados para entender resultados comerciais e identificar oportunidades de crescimento.
 
-Atuo em Customer Success com soluções de tecnologia, incluindo iniciativas de adoção de IA e Microsoft Copilot. Estou aprofundando meus conhecimentos em análise de dados, com foco em decisões sobre clientes, vendas e receita.
+Atuo em Customer Success com soluções de tecnologia, incluindo iniciativas de adoção de IA e Microsoft Copilot e produtos de segurança. Estou aprofundando meus conhecimentos em análise de dados, com foco em decisões sobre clientes, vendas e receita.
 
 ## 🎯 Foco do meu portfólio
 
