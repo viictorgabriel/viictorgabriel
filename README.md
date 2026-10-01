@@ -13,13 +13,11 @@ Atuo em Customer Success com soluções de tecnologia, incluindo iniciativas de 
 - Qualidade dos dados e comunicação de resultados.
 - Conexão entre Customer Success e Revenue Operations.
 
-## 📊 Projeto em desenvolvimento
+## 📊 Projeto de análise de dados
 
 **Análise comercial de soluções de IA e Segurança**
 
-Estudo de caso com dados fictícios para explorar evolução das vendas, ticket médio e concentração por cliente e solução.
-
-O projeto reúne Python, SQL, gráficos e documentação das análises, premissas e limitações.
+🔎 [Veja o projeto: análise comercial de IA e Segurança](https://github.com/viictorgabriel/revenue-sales-analysis)
 
 ## 🌱 Aprendizado
 
