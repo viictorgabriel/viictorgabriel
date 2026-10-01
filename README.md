@@ -1,4 +1,4 @@
-# Olá! Sou Victor Gabriel 👋
+# Oie! Sou Victor Gabriel 👋
 
 ### Customer Success • Análise de Dados • Revenue Operations
 
