@@ -1,6 +1,6 @@
 ## Olá! Sou Victor Gabriel 👋
 
-**Customer Success • Análise de Dados • Revenue Operations**
+**Customer Success • IA aplicada • Análise de Dados • Revenue Operations**
 
 Conecto minha experiência no relacionamento com clientes ao uso de dados para entender resultados comerciais e identificar oportunidades de crescimento.
 
@@ -12,6 +12,8 @@ Atuo em Customer Success com soluções de tecnologia, incluindo iniciativas de 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 🎯 Foco do meu portfólio
 
@@ -19,6 +21,19 @@ Atuo em Customer Success com soluções de tecnologia, incluindo iniciativas de 
 - Indicadores para orientar ações de relacionamento e crescimento.
 - Qualidade dos dados e comunicação de resultados.
 - Conexão entre Customer Success e Revenue Operations.
+- Agentes de IA e automações que resolvem problemas reais de pós-venda.
+
+### 🤖 Projeto de IA: agente de pós-venda
+
+**[Agente de IA para triagem de pós-venda (Claude + n8n)](https://github.com/viictorgabriel/agente-pos-venda-ia)**
+
+Agente que lê as mensagens dos clientes, consulta o CRM e a base de conhecimento, prioriza riscos de churn e oportunidades e sugere a resposta para o time revisar. Tem também uma versão sem código no n8n, com alerta no Slack. Dados fictícios.
+
+- Na demo com 20 mensagens, encontrou **3 clientes em risco de churn** e **230 licenças de oportunidade**.
+- Economia estimada de **cerca de 40 h/mês** de triagem manual (estimativa com premissas explicadas no projeto).
+- Python, API do Claude com ferramentas (tool use), n8n e testes automáticos no GitHub Actions.
+
+🔎 [Veja o projeto completo](https://github.com/viictorgabriel/agente-pos-venda-ia)
 
 ### 📊 Projeto de análise de dados
 
